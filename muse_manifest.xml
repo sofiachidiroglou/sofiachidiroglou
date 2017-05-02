@@ -1,0 +1,236 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sofia.com" resolutions="1x" timestamp="1493732501879">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3924376846" ref="index"/>
+    <file name="shadow-world.css" crc="196254875" ref="shadow-world"/>
+    <file name="ruin-sound.css" crc="4158189772" ref="ruin-sound"/>
+    <file name="future-archives.css" crc="3948480792" ref="future-archives"/>
+    <file name="fear-and-love.css" crc="52156945" ref="fear-and-love"/>
+    <file name="likes.css" crc="8186361" ref="likes"/>
+    <file name="instaland.css" crc="3935400226" ref="instaland"/>
+    <file name="ruin.css" crc="78069119" ref="ruin"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ruin-sound:instaland:future-archives:shadow-world:ruin:fear-and-love:likes"/>
+    <file name="museutils.js" crc="4232573551" ref="index:ruin-sound:instaland:future-archives:shadow-world:ruin:fear-and-love:likes"/>
+    <file name="whatinput.js" crc="86476730" ref="index:ruin-sound:instaland:future-archives:shadow-world:ruin:fear-and-love:likes"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:ruin-sound:instaland:future-archives:shadow-world:ruin:fear-and-love:likes"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:ruin-sound:instaland:future-archives:shadow-world:ruin:fear-and-love:likes"/>
+    <file name="require.js" crc="4234670167" ref="index:ruin-sound:instaland:future-archives:shadow-world:ruin:fear-and-love:likes"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="instaland:likes"/>
+  </folder>
+  <folder name="images">
+    <file name="u5390-4.png" crc="442273802" ref="index"/>
+    <file name="u5387-4.png" crc="442273802" ref="index"/>
+    <file name="u5384-4.png" crc="442273802" ref="index"/>
+    <file name="u5381-4.png" crc="442273802" ref="index"/>
+    <file name="u5378-4.png" crc="442273802" ref="index"/>
+    <file name="u5357-5.png" crc="363312725" ref="index"/>
+    <file name="u5360-5.png" crc="4048509461" ref="index"/>
+    <file name="u5363-5.png" crc="37174007" ref="index"/>
+    <file name="u5366-5.png" crc="4010158956" ref="index"/>
+    <file name="u5369-5.png" crc="4139025646" ref="index"/>
+    <file name="u5372-4.png" crc="442273802" ref="index"/>
+    <file name="u5375-4.png" crc="442273802" ref="index"/>
+    <file name="u6320-4.png" crc="493453284" ref="index"/>
+    <file name="artworkmoving1.gif" crc="3867853979" seo="true" ref="ruin-sound">
+      <caption webpage="ruin-sound" alt=""/>
+    </file>
+    <file name="artworkmoving2.gif" crc="3970441176" seo="true" ref="ruin-sound">
+      <caption webpage="ruin-sound" alt=""/>
+    </file>
+    <file name="ruinartwork.gif" crc="3797078291" seo="true" ref="ruin-sound">
+      <caption webpage="ruin-sound" alt=""/>
+    </file>
+    <file name="text3.gif" crc="3797078291" seo="true" ref="ruin-sound">
+      <caption webpage="ruin-sound" alt=""/>
+    </file>
+    <file name="pray1.gif" crc="4216220420" seo="true" ref="instaland">
+      <caption webpage="instaland" alt=""/>
+    </file>
+    <file name="pray2.gif" crc="3942412837" seo="true" ref="instaland">
+      <caption webpage="instaland" alt=""/>
+    </file>
+    <file name="pray3.gif" crc="4256539359" seo="true" ref="instaland">
+      <caption webpage="instaland" alt=""/>
+    </file>
+    <file name="futurearchivespink.jpg" crc="4025411964" ref="instaland">
+      <caption webpage="instaland" alt=""/>
+    </file>
+    <file name="instaland.gif" crc="209171417" seo="true" ref="instaland">
+      <caption webpage="instaland" alt=""/>
+    </file>
+    <file name="getmorefollowers.gif" crc="3888463712" seo="true" ref="instaland:future-archives">
+      <caption webpage="instaland" alt=""/>
+      <caption webpage="future-archives" alt=""/>
+    </file>
+    <file name="blackpink2.jpg" crc="475847749" seo="true" ref="instaland">
+      <caption webpage="instaland" alt=""/>
+    </file>
+    <file name="blackpink4.jpg" crc="4094136307" seo="true" ref="instaland">
+      <caption webpage="instaland" alt=""/>
+    </file>
+    <file name="blackpink1.jpg" crc="512615882" seo="true" ref="instaland">
+      <caption webpage="instaland" alt=""/>
+    </file>
+    <file name="blackpink3.jpg" crc="117945052" seo="true" ref="instaland">
+      <caption webpage="instaland" alt=""/>
+    </file>
+    <file name="jeansmoney.gif" crc="3823018424" seo="true" ref="instaland">
+      <caption webpage="instaland" alt=""/>
+    </file>
+    <file name="moneymickey.gif" crc="4065616533" seo="true" ref="instaland">
+      <caption webpage="instaland" alt=""/>
+    </file>
+    <file name="u2057-4.png" crc="74426735" ref="instaland"/>
+    <file name="moneyseries11.jpg" crc="450348526" seo="true" ref="future-archives">
+      <caption webpage="future-archives" alt=""/>
+    </file>
+    <file name="moneyseries3.jpg" crc="7322145" seo="true" ref="future-archives">
+      <caption webpage="future-archives" alt=""/>
+    </file>
+    <file name="moneyseries9.jpg" crc="198269547" seo="true" ref="future-archives">
+      <caption webpage="future-archives" alt=""/>
+    </file>
+    <file name="u5938-4.png" crc="3967580886" ref="future-archives"/>
+    <file name="u2279-4.png" crc="4197357333" ref="future-archives"/>
+    <file name="moneyseries7.jpg" crc="143746368" seo="true" ref="future-archives">
+      <caption webpage="future-archives" alt=""/>
+    </file>
+    <file name="moneyseries8.jpg" crc="271242166" seo="true" ref="future-archives">
+      <caption webpage="future-archives" alt=""/>
+    </file>
+    <file name="u2208-4.png" crc="3759344286" ref="future-archives"/>
+    <file name="moneyseries4.jpg" crc="24441337" seo="true" ref="future-archives">
+      <caption webpage="future-archives" alt=""/>
+    </file>
+    <file name="moneyseries2.jpg" crc="338105803" seo="true" ref="future-archives">
+      <caption webpage="future-archives" alt=""/>
+    </file>
+    <file name="u2246-4.png" crc="3841659580" ref="future-archives"/>
+    <file name="moneyseries.jpg" crc="3759254195" seo="true" ref="future-archives">
+      <caption webpage="future-archives" alt=""/>
+    </file>
+    <file name="moneyseries6.jpg" crc="200746361" seo="true" ref="future-archives">
+      <caption webpage="future-archives" alt=""/>
+    </file>
+    <file name="u2282-5.png" crc="340655019" ref="future-archives"/>
+    <file name="moneyseries010.jpg" crc="44325737" seo="true" ref="future-archives">
+      <caption webpage="future-archives" alt=""/>
+    </file>
+    <file name="moneyseries5.jpg" crc="4149649846" seo="true" ref="future-archives">
+      <caption webpage="future-archives" alt=""/>
+    </file>
+    <file name="u2257-4.png" crc="4245152124" ref="future-archives"/>
+    <file name="u6247-4.png" crc="4185000333" ref="future-archives"/>
+    <file name="triangle.png" crc="322860310" seo="true" ref="future-archives:shadow-world:ruin:fear-and-love:likes">
+      <caption webpage="likes" alt=""/>
+      <caption webpage="fear-and-love" alt=""/>
+      <caption webpage="future-archives" alt=""/>
+      <caption webpage="ruin" alt=""/>
+      <caption webpage="shadow-world" alt=""/>
+    </file>
+    <file name="text4.png" crc="290988792" seo="true" ref="shadow-world">
+      <caption webpage="shadow-world" alt=""/>
+    </file>
+    <file name="text9.jpg" crc="3883930959" seo="true" ref="shadow-world">
+      <caption webpage="shadow-world" alt=""/>
+    </file>
+    <file name="text4.jpg" crc="357237356" seo="true" ref="shadow-world">
+      <caption webpage="shadow-world" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="shadow-world"/>
+    <file name="text3.png" crc="495911569" seo="true" ref="shadow-world">
+      <caption webpage="shadow-world" alt=""/>
+    </file>
+    <file name="text11223x232.jpg" crc="4000652516" seo="true" ref="shadow-world">
+      <caption webpage="shadow-world" alt=""/>
+    </file>
+    <file name="text7.jpg" crc="3938327215" seo="true" ref="shadow-world">
+      <caption webpage="shadow-world" alt=""/>
+    </file>
+    <file name="text5.jpg" crc="3826268972" seo="true" ref="shadow-world">
+      <caption webpage="shadow-world" alt=""/>
+    </file>
+    <file name="text8.jpg" crc="68147608" seo="true" ref="shadow-world">
+      <caption webpage="shadow-world" alt=""/>
+    </file>
+    <file name="text11.jpg" crc="477313200" ref="shadow-world">
+      <caption webpage="shadow-world" alt=""/>
+    </file>
+    <file name="text6.jpg" crc="4285484569" seo="true" ref="shadow-world">
+      <caption webpage="shadow-world" alt=""/>
+    </file>
+    <file name="text10.png" crc="3865484030" seo="true" ref="shadow-world">
+      <caption webpage="shadow-world" alt=""/>
+    </file>
+    <file name="text2.png" crc="186770472" seo="true" ref="shadow-world">
+      <caption webpage="shadow-world" alt=""/>
+    </file>
+    <file name="text7.png" crc="4051160444" seo="true" ref="shadow-world">
+      <caption webpage="shadow-world" alt=""/>
+    </file>
+    <file name="u6171-4.png" crc="265775463" ref="shadow-world"/>
+    <file name="ficcionestypographika.jpg" crc="4289085892" seo="true" ref="ruin">
+      <caption webpage="ruin" alt=""/>
+    </file>
+    <file name="ruin.jpg" crc="4136267174" seo="true" ref="ruin">
+      <caption webpage="ruin" alt=""/>
+    </file>
+    <file name="turningtext.jpg" crc="129280450" seo="true" ref="ruin">
+      <caption webpage="ruin" alt=""/>
+    </file>
+    <file name="wall.jpg" crc="3986261751" seo="true" ref="ruin">
+      <caption webpage="ruin" alt=""/>
+    </file>
+    <file name="water1.gif" crc="4204110489" seo="true" ref="ruin">
+      <caption webpage="ruin" alt=""/>
+    </file>
+    <file name="water2.gif" crc="469690955" seo="true" ref="ruin">
+      <caption webpage="ruin" alt=""/>
+    </file>
+    <file name="water3.gif" crc="62331353" seo="true" ref="ruin">
+      <caption webpage="ruin" alt=""/>
+    </file>
+    <file name="u5349-8.png" crc="530125679" ref="ruin"/>
+    <file name="u6141-4.png" crc="168382221" ref="ruin"/>
+    <file name="fearandlove.jpg" crc="244071418" seo="true" ref="fear-and-love">
+      <caption webpage="fear-and-love" alt=""/>
+    </file>
+    <file name="u6219-6.png" crc="47228630" ref="fear-and-love"/>
+    <file name="u6222-4.png" crc="482473467" ref="fear-and-love"/>
+    <file name="u6225-4.png" crc="3953834601" ref="fear-and-love"/>
+    <file name="followerstext.gif" crc="123097746" seo="true" ref="likes">
+      <caption webpage="likes" alt=""/>
+    </file>
+    <file name="likemetext.gif" crc="169893144" ref="likes">
+      <caption webpage="likes" alt=""/>
+    </file>
+    <file name="instagoals2.jpg" crc="4201900654" seo="true" ref="likes">
+      <caption webpage="likes" alt=""/>
+    </file>
+    <file name="instagoals1.jpg" crc="4085062545" seo="true" ref="likes">
+      <caption webpage="likes" alt=""/>
+    </file>
+    <file name="instagoals3.jpg" crc="3781303502" seo="true" ref="likes">
+      <caption webpage="likes" alt=""/>
+    </file>
+    <file name="updated.jpg" crc="4215165997" seo="true" ref="likes">
+      <caption webpage="likes" alt=""/>
+    </file>
+    <file name="u5925-25.png" crc="307576733" ref="likes"/>
+    <file name="getfollowerseveryday.gif" crc="3827267121" seo="true" ref="likes">
+      <caption webpage="likes" alt=""/>
+    </file>
+    <file name="u5932-4.png" crc="3843973398" ref="likes"/>
+    <file name="u6114-4.png" crc="265775463" ref="likes"/>
+  </folder>
+  <file name="index.html" crc="4278554197" seo="true" mt="1493728666698" redirect="true"/>
+  <file name="ruin-sound.html" crc="25190154" seo="true" mt="1493728666699" redirect="true"/>
+  <file name="instaland.html" crc="96749418" seo="true" mt="1493728666700" redirect="true"/>
+  <file name="future-archives.html" crc="3853232013" seo="true" mt="1493728687216" redirect="true"/>
+  <file name="shadow-world.html" crc="3807434584" seo="true" mt="1493728666701" redirect="true"/>
+  <file name="ruin.html" crc="469986855" seo="true" mt="1493728666702" redirect="true"/>
+  <file name="fear-and-love.html" crc="4022674458" seo="true" mt="1493728666703" redirect="true"/>
+  <file name="likes.html" crc="3938449388" seo="true" mt="1493732421590" redirect="true"/>
+</manifest>
